@@ -1,0 +1,18 @@
+# Keep the profile free of credentials and media.
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.ico
+*.mp4
+*.mov
+*.avi
+*.mkv
